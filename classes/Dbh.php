@@ -3,9 +3,9 @@
 class Dbh {
     //set your configs here
     private $host = "localhost";
-    private $user = "root";
+    private $user = "USER";
     private $db = "Zuriphp";
-    private $password = "kaimarcii";
+    private $password = "PASSWORD";
 
     public function connect(){
         return mysqli_connect($this->host, $this->user, $this->password, $this->db);
