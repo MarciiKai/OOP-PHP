@@ -19,7 +19,7 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                 <li class="nav-item f-right">
-                    <a class="nav-link " href="login.php">Login</a>
+                    <a class="nav-link " href="dashboard.php">Login</a>
                 </li>
     </div>
     </nav>
